@@ -17,7 +17,7 @@ The project began with Times Sq–42 St and moved to Grand Central because
 it is a larger station complex with higher ridership. The code is written
 so the focus station can be changed to another station complex.
 
-## Data
+## Data & Scope
 
 - **Source:** MTA Open Data, Subway Origin-Destination Ridership Estimates
   ([data.ny.gov](https://data.ny.gov/Transportation/MTA-Open-Data-Catalog/f462-ka72/about_data))

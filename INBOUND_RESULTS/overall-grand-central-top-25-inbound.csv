@@ -1,0 +1,26 @@
+Origin Station Complex Name,Destination Station Complex Name,Estimated Average Ridership,Rank,Morning Ridership,Morning Rank,Evening Ridership,Evening Rank
+"Fulton St (A,C,J,Z,2,3,4,5)","Grand Central-42 St (S,4,5,6,7)",25317.5733,1,10925.7062,1,14391.8671,1
+"Times Sq-42 St (N,Q,R,W,S,1,2,3,7)/42 St (A,C,E)","Grand Central-42 St (S,4,5,6,7)",14775.601,2,9470.9752,2,5304.6258,5
+"14 St-Union Sq (L,N,Q,R,W,4,5,6)","Grand Central-42 St (S,4,5,6,7)",13120.5394,3,5466.2597,6,7654.2797,3
+"86 St (4,5,6)","Grand Central-42 St (S,4,5,6,7)",11159.1163,4,6993.7605,4,4165.3558,10
+34 St-Hudson Yards (7),"Grand Central-42 St (S,4,5,6,7)",10703.1534,5,2019.9596000000001,23,8683.193800000001,2
+"Brooklyn Bridge-City Hall (4,5,6)/Chambers St (J,Z)","Grand Central-42 St (S,4,5,6,7)",10057.2591,6,3350.9052,12,6706.3539,4
+"34 St-Penn Station (1,2,3)","Grand Central-42 St (S,4,5,6,7)",9752.9495,7,7236.4541,3,2516.4954,15
+23 St (6),"Grand Central-42 St (S,4,5,6,7)",8037.399,8,3026.6591,14,5010.7399,7
+"Bowling Green (4,5)","Grand Central-42 St (S,4,5,6,7)",7817.6792,9,2740.4726,16,5077.2066,6
+Vernon Blvd-Jackson Av (7),"Grand Central-42 St (S,4,5,6,7)",7542.8742,10,6202.2423,5,1340.6319,29
+"Wall St (4,5)","Grand Central-42 St (S,4,5,6,7)",7531.7807,11,3601.1789,9,3930.6018,11
+77 St (6),"Grand Central-42 St (S,4,5,6,7)",6961.7583,12,3857.9049,7,3103.8534,12
+68 St-Hunter College (6),"Grand Central-42 St (S,4,5,6,7)",6469.2563,13,2288.9568,19,4180.2995,9
+"Lexington Av (N,R,W)/59 St (4,5,6)","Grand Central-42 St (S,4,5,6,7)",6260.5055999999995,14,1850.8709,25,4409.6347,8
+Astor Pl (6),"Grand Central-42 St (S,4,5,6,7)",6099.0723,15,3605.051,8,2494.0213,16
+"Broadway-Lafayette St (B,D,F,M)/Bleecker St (6)","Grand Central-42 St (S,4,5,6,7)",5155.3971,16,2350.0768,18,2805.3203,13
+"Court St (R)/Borough Hall (2,3,4,5)","Grand Central-42 St (S,4,5,6,7)",4948.5061,17,3083.8939,13,1864.6122,23
+Flushing-Main St (7),"Grand Central-42 St (S,4,5,6,7)",4432.503,18,3573.6091,10,858.8939,41
+Bedford Av (L),"Grand Central-42 St (S,4,5,6,7)",4254.7407,19,3461.1381,11,793.6026,45
+28 St (6),"Grand Central-42 St (S,4,5,6,7)",4122.7729,20,1490.6553999999999,35,2632.1175,14
+"59 St-Columbus Circle (A,B,C,D,1)","Grand Central-42 St (S,4,5,6,7)",3989.5275,21,1546.7058,33,2442.8217,18
+"72 St (1,2,3)","Grand Central-42 St (S,4,5,6,7)",3912.573,22,2835.1947,15,1077.3783,33
+96 St (6),"Grand Central-42 St (S,4,5,6,7)",3617.197,23,1950.3651,24,1666.8319000000001,25
+Spring St (6),"Grand Central-42 St (S,4,5,6,7)",3559.7211,24,1317.7411,41,2241.98,20
+"Court Sq (E,G,M,7)","Grand Central-42 St (S,4,5,6,7)",3481.89,25,2357.0012,17,1124.8888,32

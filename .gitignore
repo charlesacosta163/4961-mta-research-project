@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Data lives outside the repo, but keep it ignored in case it's moved in
+data/

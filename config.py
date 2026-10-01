@@ -43,7 +43,7 @@ EVENING_RUSH_HOURS = [15, 16, 17, 18]
 
 MORNING_RUSH_LABEL = "Morning Rush (7-10 AM)"
 EVENING_RUSH_LABEL = "Evening Rush (3-6 PM)"
-ALL_DAY_LABEL = "All Day (24 Hours)"
+ALL_DAY_LABEL = "All Day (Morning + Evening)"
 
 DAY_ORDER = [
     "Monday",

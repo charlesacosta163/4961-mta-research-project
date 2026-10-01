@@ -141,7 +141,7 @@ def print_summary(plotted, station_label, direction, exports, chart_path):
         f"{plotted['Evening Ridership'].max():,.0f} riders"
     )
     print(
-        f"  All day peak   : "
+        f"  Overall peak   : "
         f"{plotted[config.RIDERSHIP_COLUMN].max():,.0f} riders"
     )
     print("=" * 60)

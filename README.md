@@ -44,4 +44,4 @@ Each direction exports top-25 rankings and a chart:
 - `OUTBOUND_RESULTS/`
 
 Each folder contains morning, evening and overall ranking CSV files, plus a
-bar chart comparing morning rush, evening rush and all-day ridership.
+bar chart comparing morning rush, evening rush and overall (morning + evening rush) ridership.
